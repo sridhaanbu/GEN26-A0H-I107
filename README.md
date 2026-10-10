@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I107
 ### Team Details
-#### **Team Details: QuadraMind**    <br/>
+#### **Team Details:** *QuadraMind*   <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫   Department / Programme   |    🏨 Hostel details  |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:------------------------|
